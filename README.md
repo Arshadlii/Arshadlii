@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Arshad Ali 👋</h1>
+<h3 align="center">Full-Stack Developer | PEAN Stack | Final-Year CSE Student</h3>
 
-<!--
-**Arshadlii/Arshadlii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Featured Project
+#### 🔹 Task Manager Web App (Live)
+A full-stack task management platform built with the PEAN stack.  
+🔗 **Live App:** https://task-manager-sooty-omega.vercel.app/login  
+🔗 **Backend + Code:** Add GitHub link  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Features:  
+- JWT user authentication  
+- Task CRUD with priority, status & due dates  
+- Angular UI + Express API  
+- PostgreSQL + Sequelize ORM  
+
+---
+
+### 🔧 Tech Stack
+**Frontend:** Angular, React (basic), HTML, CSS, Bootstrap  
+**Backend:** Node.js, Express.js, PostgreSQL, Sequelize ORM  
+**Languages:** JavaScript, Python, C, Java, PHP  
+**Tools:** Git, GitHub, Postman, VS Code, Linux  
+
+---
+
+### 🛠 More Projects
+#### 🔹 Campus Navigation System (MERN + Leaflet)
+Interactive room-level navigation for college campus  
+🔗 GitHub: Add link  
+
+#### 🔹 Ward Connect – Digital Ward System (In Progress)
+A multi-module platform for local governance digitalization  
+
+---
+
+### 🌱 Currently Learning
+- Advanced Angular  
+- API optimization & clean backend architecture  
+
+---
+
+### 📫 Connect With Me
+📧 ranuarshad@gmail.com.com  
+🔗 LinkedIn: https://www.linkedin.com/in/arshad-ali-1565b8255/  
+🔗 GitHub: https://github.com/Arshadlii
+
+⭐ Feel free to explore my repositories!
+
