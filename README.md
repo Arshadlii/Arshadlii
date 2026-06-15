@@ -6,7 +6,6 @@
 ### 🚀 Featured Project
 #### 🔹 Task Manager Web App (Live)
 A full-stack task management platform built with the PEAN stack.  
-🔗 **Live App:** https://task-manager-sooty-omega.vercel.app/login  
 🔗 **Backend + Code:** Add GitHub link  
 
 Features:  
