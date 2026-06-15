@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arshad Ali 👋</h1>
-<h3 align="center">Full-Stack Developer | PEAN Stack | Final-Year CSE Student</h3>
+<h3 align="center">Java Full-Stack Developer | PEAN Stack | B TECH CSE Student</h3>
 
 ---
 
