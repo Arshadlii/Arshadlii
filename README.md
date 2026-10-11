@@ -39,7 +39,7 @@ A full-stack task management application built with Angular and Node.js.
 `Angular` `Node.js` `Express.js` `PostgreSQL` `Sequelize` `JWT`
 
 🔗 **Live Demo:** https://task-manager-sooty-omega.vercel.app/login  
-🔗 **GitHub:** Add your repository link here
+🔗 **GitHub:** https://github.com/Arshadlii/task-manager
 
 ---
 
@@ -77,7 +77,7 @@ A campus navigation application that helps users locate classrooms and other loc
 **Tech Stack:**  
 `React` `Node.js` `Express.js` `MongoDB` `Leaflet`
 
-🔗 **GitHub:** Add your repository link here
+🔗 **GitHub:** https://github.com/Arshadlii/campusnavi
 
 ---
 
